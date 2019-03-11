@@ -6,3 +6,6 @@
 
 Follow [these instructions](./tweets) for a detailed guide, but the short version is: create a `.tweet` file in `/tweets` and open a pull request. We'll review it, and once it's merged, the [@ProbotTheRobot](https://twitter.com/ProbotTheRobot) Twitter account will tweet it out!
 
+## License
+
+[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) © 2019 Contributors.
