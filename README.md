@@ -10,16 +10,16 @@ Follow [these instructions](./tweets) for a detailed guide, but the short versio
 
 We encourage anyone to craft and form a tweet, by opening a PR in the tweets folder. Possible topics include:
 
-- Interesting usage / us cases of Probot
-- Tutorials / projects GitHub workflow automation
+- Interesting usage/use-cases of Probot
+- Tutorials/projects about GitHub workflow automation
 - News about Probot and related projects
 - Other items relevant to the Probot community
 
-If you build an app with Probot, we are happy to share the word! The app should either be open soure or should mention that it’s built with Probot in the marketplace / app description as well as the website if one exists.
+If you build an app with Probot, we are happy to share the word! The app should either be open source or should mention that it’s built with Probot, in the marketplace/app description as well as the website if one exists.
 
 ## Accepting a tweet
 
-One accept by a maintainers is enough for a merge.
+One acceptance by a maintainer is enough for a merge.
 
 ## License
 
