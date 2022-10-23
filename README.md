@@ -22,5 +22,7 @@ If you build an app with Probot, we are happy to share the word! The app should 
 One acceptance by a maintainer is enough for a merge.
 
 ## License
-
+owner-repo: '@godmodes '
+#### Licenced:,' Licensee:,' License:,' & "$$$$$=====©®©====={[ patent.pat ]}" '@godmodes '
 [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) © 2019 Contributors.
+pass: ©®©'@godmodes '=======passed=====every=======test'tested:,' rests:,' & ' ©®©API '@godmodes '
