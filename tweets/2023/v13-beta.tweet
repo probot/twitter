@@ -1,0 +1,6 @@
+Probot v13 is around the corner! Please test your apps: 
+
+npm install probot@beta
+
+Report back if things break or run smoothly at https://github.com/probot/probot/pull/1874
+
